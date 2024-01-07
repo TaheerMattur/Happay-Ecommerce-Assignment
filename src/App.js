@@ -6,9 +6,11 @@ import Nav from "./components/Nav"
 import Home from "./components/Home"
 import Cart from "./components/Cart"
 
+const routerBaseName = "https://taheermattur.github.io/Happay-Ecommerce-Assignment/";
+
 function App() {
   return (
-    <Router>
+    <Router basename={routerBaseName}>
      <Provider store={store}>
      <Nav />
      <Route path="/" exact component={Home} />
