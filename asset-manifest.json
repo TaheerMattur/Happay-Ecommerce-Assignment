@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Happay-Ecommerce-Assignment/static/css/main.b1ed0531.chunk.css",
+    "main.js": "/Happay-Ecommerce-Assignment/static/js/main.c1a88415.chunk.js",
+    "main.js.map": "/Happay-Ecommerce-Assignment/static/js/main.c1a88415.chunk.js.map",
+    "runtime-main.js": "/Happay-Ecommerce-Assignment/static/js/runtime-main.052adbae.js",
+    "runtime-main.js.map": "/Happay-Ecommerce-Assignment/static/js/runtime-main.052adbae.js.map",
+    "static/js/2.f96e89aa.chunk.js": "/Happay-Ecommerce-Assignment/static/js/2.f96e89aa.chunk.js",
+    "static/js/2.f96e89aa.chunk.js.map": "/Happay-Ecommerce-Assignment/static/js/2.f96e89aa.chunk.js.map",
+    "static/js/3.0f3aef45.chunk.js": "/Happay-Ecommerce-Assignment/static/js/3.0f3aef45.chunk.js",
+    "static/js/3.0f3aef45.chunk.js.map": "/Happay-Ecommerce-Assignment/static/js/3.0f3aef45.chunk.js.map",
+    "index.html": "/Happay-Ecommerce-Assignment/index.html",
+    "static/css/main.b1ed0531.chunk.css.map": "/Happay-Ecommerce-Assignment/static/css/main.b1ed0531.chunk.css.map",
+    "static/js/2.f96e89aa.chunk.js.LICENSE.txt": "/Happay-Ecommerce-Assignment/static/js/2.f96e89aa.chunk.js.LICENSE.txt",
+    "static/media/blue_logo.065d0fd4.svg": "/Happay-Ecommerce-Assignment/static/media/blue_logo.065d0fd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.052adbae.js",
+    "static/js/2.f96e89aa.chunk.js",
+    "static/css/main.b1ed0531.chunk.css",
+    "static/js/main.c1a88415.chunk.js"
+  ]
+}
