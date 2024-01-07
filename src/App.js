@@ -6,7 +6,7 @@ import Nav from "./components/Nav"
 import Home from "./components/Home"
 import Cart from "./components/Cart"
 
-const routerBaseName = "https://taheermattur.github.io/Happay-Ecommerce-Assignment/";
+const routerBaseName = "/Happay-Ecommerce-Assignment/";
 
 function App() {
   return (
